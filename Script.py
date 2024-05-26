@@ -3,7 +3,10 @@ class script(object):
 
 Mʏ Nᴀᴍᴇ Is {bot}.
 
-I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ Yᴏᴜʀ Gʀᴏᴜᴘ Oʀ Jᴏɪɴ Oᴜʀ Gʀᴏᴜᴘ</b>"""
+I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ Yᴏᴜʀ Gʀᴏᴜᴘ Oʀ Jᴏɪɴ Oᴜʀ Gʀᴏᴜᴘ
+
+Pᴏᴡᴇʀᴇᴅ Bʏ,
+<blockquote>සිංහල කාටූන්™ Sinhala Cartoons™ 🇱🇰</blockquote></b>"""
     
     HELP_TXT = "Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ"
 
@@ -220,12 +223,14 @@ Wᴇʟᴄᴏᴍᴇ ᴛᴏ {chat}.
 
 ꜱʜᴀʀᴇ & ꜱᴜᴩᴩᴏʀᴛ, ʀᴇqᴜᴇꜱᴛ ʏᴏᴜ ᴡᴀɴᴛᴇᴅ ᴍᴏᴠɪᴇꜱ"""
   
-    IMDB_TEMPLATE = """<b>Qᴜᴇʀʏ: {query}</b>
-
-🏷 Tɪᴛʟᴇ: <a href={url}>{title}</a>
-🎭 Gᴇɴʀᴇꜱ: {genres}
-📆 Yᴇᴀʀ: <a href={url}/releaseinfo>{year}</a>
-🌟 Rᴀᴛɪɴɢ: <a href={url}/ratings>{rating}</a>/10"""
+    IMDB_TEMPLATE = """<b>🏷 Tɪᴛʟᴇ: <a href={url}>{title}</a>
+    
+    📕 Yᴇᴀʀ: <a href={url}/releaseinfo>{year}</a>
+    🌍 Lᴀɴɢᴜᴀɢᴇꜱ ➜ {languages}
+    ⭐️ Rᴀᴛɪɴɢ: <a href={url}/ratings>{rating}</a>/10
+    📖Gᴇɴʀᴇꜱ: {genres}
+    
+    <blockquote>සිංහල කාටූන්™ Sinhala Cartoons™ 🇱🇰</blockquote></b>"""
    
   
  
