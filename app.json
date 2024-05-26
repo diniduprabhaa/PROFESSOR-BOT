@@ -3,7 +3,7 @@
     "description": "The Telegram Autofilter Bot",
     "logo": "https://graph.org/file/b7e8484f6395a180b6380.jpg",
     "keywords": ["Telegram", "auto-filter", "MrMKN"],
-    "repository": "https://t.me/Sinhala_Cartoons_SL",
+    "repository": "https://t.me/SilvaFilmZone",
     "env": {
         "WEBHOOK": {
             "description": "True/False if your server is web support required? the value is True else False",
@@ -76,7 +76,7 @@
         },
         "SUPPORT_CHAT": {
             "description": "Updated Channel Username Without @ Not Chanel ID",
-            "value": "https://t.me/Sinhala_Cartoons_chat",
+            "value": "https://t.me/SilvaMovieZone",
             "required": false
         },
         "IMDB": {
@@ -91,7 +91,7 @@
         },
         "IMDB_TEMPLATE": {
             "description": "Custom IMDB Template",
-            "value": "<b>🏷 Tɪᴛʟᴇ: <a href={url}>{title}</a>\n\n📕 Yᴇᴀʀ: <a href={url}/releaseinfo>{year}</a>\n🌍 Lᴀɴɢᴜᴀɢᴇꜱ ➜ {languages}\n⭐️ Rᴀᴛɪɴɢ: <a href={url}/ratings>{rating}</a>/10\n📖Gᴇɴʀᴇꜱ: {genres}\n\n<blockquote>සිංහල කාටූන්™ | @Sinhala_Cartoons_SL 🇱🇰</blockquote></b>",        
+            "value": "<b>🏷 Tɪᴛʟᴇ ➜ <a href={url}>{title}</a>\n\n📕 Yᴇᴀʀ ➜ <a href={url}/releaseinfo>{year}</a>\n⭐️ Rᴀᴛɪɴɢ ➜ <a href={url}/ratings>{rating}</a>/10\n🌍 Lᴀɴɢᴜᴀɢᴇꜱ ➜ {languages}\n📖 Gᴇɴʀᴇꜱ ➜ {genres}\n\n𝗦𝗶𝗹𝘃𝗮 𝗙𝗶𝗹𝗺 𝗭𝗼𝗻𝗲™ | @SilvaFilmZone 🇱🇰</b>",        
             "required": false
         }, 
         "IMDB_DELET_TIME": {
