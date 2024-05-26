@@ -1,26 +1,26 @@
 class script(object):  
-    START_TXT = """<b>✨ Hᴇʟʟᴏ {user}.
+    START_TXT = """<b>හෙලෝ {user} 👋🏻
 
-Mʏ Nᴀᴍᴇ Is {bot}.
+මම {bot}.
 
-I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ Yᴏᴜʀ Gʀᴏᴜᴘ Oʀ Jᴏɪɴ Oᴜʀ Gʀᴏᴜᴘ
+ඔබට කැමති ඔනෑම Film එකක් මගෙන් ලබා ගත හැක. ඔබට අවශ්‍ය Film එකෙ නම Type කර Send කරන්න. 🥰
 
 Pᴏᴡᴇʀᴇᴅ Bʏ,
-<blockquote>සිංහල කාටූන්™ Sinhala Cartoons™ 🇱🇰</blockquote></b>"""
+<blockquote>𝗦𝗶𝗹𝘃𝗮 𝗙𝗶𝗹𝗺 𝗭𝗼𝗻𝗲™ @SilvaFilmZone 🇱🇰</blockquote></b>"""
     
     HELP_TXT = "Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ"
 
     ABOUT_TXT = """<b>✯ Mʏ ɴᴀᴍᴇ: {}
-✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a herf=https://t.me/DiniduSilva>ᴍʀ.ᴘʀɪᴍᴇ ꜱɪʟᴠᴀ</a>
-✯ Cᴏᴅᴇᴅ Oɴ: ᴩʏᴛʜᴏɴ/ᴩʏʀᴏɢʀᴀᴍ
-✯ Mʏ DᴀᴛᴀBᴀꜱᴇ: ᴍᴏɴɢᴏ-ᴅʙ
-✯ Mʏ Sᴇʀᴠᴇʀ: ᴀɴʏᴡʜᴇʀᴇ
-✯ Mʏ Vᴇʀꜱɪᴏɴ: ᴩʀᴏꜰᴇꜱꜱᴏʀ-ʙᴏᴛ ᴠ4.5.0</b>"""
+● Oᴡɴᴇʀ: <a herf=https://t.me/DiniduSilva>Mʀ.Pʀɪᴍᴇ සිල්වා</a>
+● Fɪʟᴍ Group: @SilvaMovieZone
+● Fɪʟᴍ Cʜᴀɴɴᴇʟ: @SilvaFilmZone
+
+<blockquote>Mʀ.Pʀɪᴍᴇ සිල්වා Pʀᴇᴍɪᴜᴍ Cʀᴇᴀᴛɪᴏɴ</blockquote></b>"""
    
     SOURCE_TXT = """<b>NOTE:</b>
-- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ɴᴏᴛ ᴘᴜʙʟɪᴄ ◉› :<a href=https://t.me/DiniduSilva>ꜱᴏʀʀʏ ᴅᴇᴀʀ ᴛʜɪꜱ ɪꜱ ᴘʀɪᴠᴀᴛᴇ ʙᴏᴛ. ʏᴏᴜ ᴄᴀɴ ᴄᴏɴᴛᴀᴄᴛ ᴀᴅᴍɪɴ ᴀɴᴅ ɢᴇᴛ ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ.</a>
+- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ɴᴏᴛ ᴘᴜʙʟɪᴄ ☛ :<a href=https://t.me/DiniduSilva>ꜱᴏʀʀʏ ᴅᴇᴀʀ ᴛʜɪꜱ ɪꜱ ᴘʀɪᴠᴀᴛᴇ ʙᴏᴛ. ʏᴏᴜ ᴄᴀɴ ᴄᴏɴᴛᴀᴄᴛ ᴀᴅᴍɪɴ ᴀɴᴅ ɢᴇᴛ ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ.</a>
 
-<b>ᴅᴇᴠ: <a herf=https://t.me/DiniduSilva>ᴍʀ.ᴘʀɪᴍᴇ ꜱɪʟᴠᴀ</a></b>"""
+<b>ᴅᴇᴠ: <a herf=https://t.me/DiniduSilva>Mʀ.Pʀɪᴍᴇ සිල්වා</a></b>"""
 
     FILE_TXT = """<b>➤ Hᴇʟᴘ Fᴏʀ Fɪʟᴇ Sᴛᴏʀᴇ</b>
 
@@ -223,14 +223,14 @@ Wᴇʟᴄᴏᴍᴇ ᴛᴏ {chat}.
 
 ꜱʜᴀʀᴇ & ꜱᴜᴩᴩᴏʀᴛ, ʀᴇqᴜᴇꜱᴛ ʏᴏᴜ ᴡᴀɴᴛᴇᴅ ᴍᴏᴠɪᴇꜱ"""
   
-    IMDB_TEMPLATE = """<b>🏷 Tɪᴛʟᴇ: <a href={url}>{title}</a>
+    IMDB_TEMPLATE = """<b>🏷 Tɪᴛʟᴇ ➜ <a href={url}>{title}</a>
     
-    📕 Yᴇᴀʀ: <a href={url}/releaseinfo>{year}</a>
+    📕 Yᴇᴀʀ ➜ <a href={url}/releaseinfo>{year}</a>
+    ⭐️ Rᴀᴛɪɴɢ ➜ <a href={url}/ratings>{rating}</a>/10
     🌍 Lᴀɴɢᴜᴀɢᴇꜱ ➜ {languages}
-    ⭐️ Rᴀᴛɪɴɢ: <a href={url}/ratings>{rating}</a>/10
-    📖Gᴇɴʀᴇꜱ: {genres}
+    📖 Gᴇɴʀᴇꜱ ➜ {genres}
     
-    <blockquote>සිංහල කාටූන්™ Sinhala Cartoons™ 🇱🇰</blockquote></b>"""
+    <blockquote>𝗦𝗶𝗹𝘃𝗮 𝗙𝗶𝗹𝗺 𝗭𝗼𝗻𝗲™ | @SilvaFilmZone 🇱🇰</blockquote></b></b>"""
    
   
  
