@@ -91,7 +91,7 @@
         },
         "IMDB_TEMPLATE": {
             "description": "Custom IMDB Template",
-            "value": "<b>🏷 Tɪᴛʟᴇ: <a href={url}>{title}</a>\n\n 📕 Yᴇᴀʀ: <a href={url}/releaseinfo>{year}</a>\n 🌍 Lᴀɴɢᴜᴀɢᴇꜱ ➜ {languages}\n ⭐️ Rᴀᴛɪɴɢ: <a href={url}/ratings>{rating}</a>/10\n 📖Gᴇɴʀᴇꜱ: {genres}\n\n <blockquote>සිංහල කාටූන්™ Sinhala Cartoons™ 🇱🇰</blockquote></n>",        
+            "value": "<b>🏷 Tɪᴛʟᴇ: <a href={url}>{title}</a>\n\n 📕 Yᴇᴀʀ: <a href={url}/releaseinfo>{year}</a>\n 🌍 Lᴀɴɢᴜᴀɢᴇꜱ ➜ {languages}\n ⭐️ Rᴀᴛɪɴɢ: <a href={url}/ratings>{rating}</a>/10\n 📖Gᴇɴʀᴇꜱ: {genres}\n\n <blockquote>සිංහල කාටූන්™ Sinhala Cartoons™ 🇱🇰</blockquote></b>",        
             "required": false
         }, 
         "IMDB_DELET_TIME": {
