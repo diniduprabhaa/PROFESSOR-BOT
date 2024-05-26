@@ -230,7 +230,7 @@ Wᴇʟᴄᴏᴍᴇ ᴛᴏ {chat}.
     🌍 Lᴀɴɢᴜᴀɢᴇꜱ ➜ {languages}
     📖 Gᴇɴʀᴇꜱ ➜ {genres}
     
-    𝗦𝗶𝗹𝘃𝗮 𝗙𝗶𝗹𝗺 𝗭𝗼𝗻𝗲™ | @SilvaFilmZone 🇱🇰</b></b>"""
+    𝗦𝗶𝗹𝘃𝗮 𝗙𝗶𝗹𝗺 𝗭𝗼𝗻𝗲™ | @SilvaFilmZone 🇱🇰</b>"""
    
   
  
