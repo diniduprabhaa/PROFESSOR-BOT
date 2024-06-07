@@ -1,24 +1,25 @@
 class script(object):  
     START_TXT = """<b>හෙලෝ {user} 👋🏻
 
-මම {bot}.
+I'ɴ {bot}.
 
-ඔබට කැමති ඔනෑම Film එකක් මගෙන් ලබා ගත හැක. ඔබට අවශ්‍ය Film එකෙ නම Type කර Send කරන්න. 🥰
+You Can Get Any Film Using Me. Send You Want Film Like This.
+<blockquote><code>ironMan 20213<code></blockquote>
 
 Pᴏᴡᴇʀᴇᴅ Bʏ,
-<blockquote>𝗦𝗶𝗹𝘃𝗮 𝗙𝗶𝗹𝗺 𝗭𝗼𝗻𝗲™ @SilvaFilmZone 🇱🇰</blockquote></b>"""
+<blockquote>@SilvaMovieZone™ @SilvaFilmZone 🇱🇰</blockquote></b>"""
     
     HELP_TXT = "Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ"
 
-    ABOUT_TXT = """<b>✯ Mʏ ɴᴀᴍᴇ: {}
-● Oᴡɴᴇʀ: <a herf=https://t.me/DiniduSilva>Mʀ.Pʀɪᴍᴇ සිල්වා</a>
-● Fɪʟᴍ Group: @SilvaMovieZone
-● Fɪʟᴍ Cʜᴀɴɴᴇʟ: @SilvaFilmZone
+    ABOUT_TXT = """<b>✦ Mʏ ɴᴀᴍᴇ: {}
+✦ Oᴡɴᴇʀ: <a herf=https://t.me/DiniduSilva>Mʀ.Pʀɪᴍᴇ සිල්වා</a>
+✦ Fɪʟᴍ Group: @SilvaMovieZone
+✦ Fɪʟᴍ Cʜᴀɴɴᴇʟ: @SilvaFilmZone
 
 <blockquote>Mʀ.Pʀɪᴍᴇ සිල්වා Pʀᴇᴍɪᴜᴍ Cʀᴇᴀᴛɪᴏɴ</blockquote></b>"""
    
     SOURCE_TXT = """<b>NOTE:</b>
-- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ɴᴏᴛ ᴘᴜʙʟɪᴄ ☛ :<a href=https://t.me/DiniduSilva>ꜱᴏʀʀʏ ᴅᴇᴀʀ ᴛʜɪꜱ ɪꜱ ᴘʀɪᴠᴀᴛᴇ ʙᴏᴛ. ʏᴏᴜ ᴄᴀɴ ᴄᴏɴᴛᴀᴄᴛ ᴀᴅᴍɪɴ ᴀɴᴅ ɢᴇᴛ ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ.</a>
+- <b>ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ɴᴏᴛ ᴘᴜʙʟɪᴄ ➜ <a href=https://t.me/DiniduSilva>ꜱᴏʀʀʏ ᴅᴇᴀʀ ᴛʜɪꜱ ɪꜱ ᴘʀɪᴠᴀᴛᴇ ʙᴏᴛ. ʏᴏᴜ ᴄᴀɴ ᴄᴏɴᴛᴀᴄᴛ ᴀᴅᴍɪɴ ᴀɴᴅ ɢᴇᴛ ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ.</a></b>
 
 <b>ᴅᴇᴠ: <a herf=https://t.me/DiniduSilva>Mʀ.Pʀɪᴍᴇ සිල්වා</a></b>"""
 
@@ -223,14 +224,19 @@ Wᴇʟᴄᴏᴍᴇ ᴛᴏ {chat}.
 
 ꜱʜᴀʀᴇ & ꜱᴜᴩᴩᴏʀᴛ, ʀᴇqᴜᴇꜱᴛ ʏᴏᴜ ᴡᴀɴᴛᴇᴅ ᴍᴏᴠɪᴇꜱ"""
   
-    IMDB_TEMPLATE = """<b>🏷 Tɪᴛʟᴇ ➜ <a href={url}>{title}</a>
-    
-    📕 Yᴇᴀʀ ➜ <a href={url}/releaseinfo>{year}</a>
-    ⭐️ Rᴀᴛɪɴɢ ➜ <a href={url}/ratings>{rating}</a>/10
-    🌍 Lᴀɴɢᴜᴀɢᴇꜱ ➜ {languages}
-    📖 Gᴇɴʀᴇꜱ ➜ {genres}
-    
-    𝗦𝗶𝗹𝘃𝗮 𝗙𝗶𝗹𝗺 𝗭𝗼𝗻𝗲™ | @SilvaFilmZone 🇱🇰</b>"""
+    IMDB_TEMPLATE = """<b>🏷 Tɪᴛʟᴇ : <a href={url}>{title}</a> | <a href={url}/releaseinfo>{year}</a></b>
+
+<b>📕 Rᴇʟᴇᴀꜱᴇ ➜ {release_date}</b>
+<b>🔉 Lᴀɴɢᴜᴀɢᴇ ➜ {languages}</b>
+<b>🌍 Cᴏᴜɴᴛʀɪᴇꜱ ➜ {countries}</b>
+<b>⏰ RᴜɴTɪᴍᴇ➜ {runtime} Minutes</b>
+<b>⭐️ Rᴀᴛɪɴɢ ➜ <a href={url}/ratings>{rating}</a> /10</b>
+<b>🎥 Dɪʀᴇᴄᴛᴏʀ ➜ {director}</b>
+<b>🌼 Gᴇɴʀᴇꜱ ➜ {genres}</b>
+
+<b>📖 Sᴛᴏʀʏ ➜ {plot}</b>
+
+<blockquote><b>@SilvaMovieZone™ | @SilvaFilmZone™ 🇱🇰</b></blockquote>"""
    
   
  
