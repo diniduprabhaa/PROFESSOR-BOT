@@ -1,13 +1,14 @@
 class script(object):  
     START_TXT = """<b>හෙලෝ {user} 👋🏻
 
-I'ɴ {bot}.
+I'ᴍ {bot}.
 
-You Can Get Any Film Using Me. Send You Want Film Like This.
-<blockquote><code>ironMan 20213<code></blockquote>
+🌼 Yᴏᴜ Cᴀɴ Gᴇᴛ Aɴʏ Fɪʟᴍ Uꜱɪɴɢ Mᴇ. Sᴇɴᴅ Yᴏᴜ Wᴀɴᴛ Fɪʟᴍ Nᴀᴍᴇ Lɪᴋᴇ Tʜɪꜱ.
+<blockquote>Spiderman 2021</blockquote>
 
 Pᴏᴡᴇʀᴇᴅ Bʏ,
-<blockquote>@SilvaMovieZone™ @SilvaFilmZone 🇱🇰</blockquote></b>"""
+<blockquote>@SilvaMovieZone™ @SilvaFilmZone 🇱🇰
+Pʀɪᴍᴇ සිල්වා Pʀᴇᴍɪᴜᴍ Cʀᴇᴀᴛɪᴏɴ</blockquote></b>"""
     
     HELP_TXT = "Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ"
 
