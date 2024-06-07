@@ -1,5 +1,5 @@
 class script(object):  
-    START_TXT = """<b>හෙලෝ {user} 👋🏻
+    START_TXT = """<b>Hᴇʟʟᴏ {user} 👋🏻
 
 I'ᴍ {bot}.
 
