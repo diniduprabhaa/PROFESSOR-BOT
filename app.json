@@ -57,7 +57,7 @@
         },
         "CUSTOM_FILE_CAPTION": {
             "description": "A custom file caption for your files. formatable with , file_name, file_caption, file_size, Read Readme.md for better understanding.",
-            "value": "Hey {mention}👋\n\n{file_name}\n\n🔘 size - {file_size}\n\n╭─── • ❰ @MR_LINK_Z ❱ • ────➤\n┣ ▫️ @MRxSERIES\n┣ ▫️ @MalluMovie_Official\n╰─────── • ◆ • ───────➤",
+            "value": "<b>Hey {mention}👋/n/n📕 Name ➜ {file_name}/n📖 Size ➜ {file_size}/n<blockquote>@SilvaMovieZone™ | @SilvaFilmZone™ 🇱🇰</blockquote></b>",
             "required": false
         },
         "DATABASE_URL": {
@@ -91,7 +91,7 @@
         },
         "IMDB_TEMPLATE": {
             "description": "Custom IMDB Template",
-            "value": "<b>🏷 Tɪᴛʟᴇ ➜ <a href={url}>{title}</a>\n\n📕 Yᴇᴀʀ ➜ <a href={url}/releaseinfo>{year}</a>\n⭐️ Rᴀᴛɪɴɢ ➜ <a href={url}/ratings>{rating}</a>/10\n🌍 Lᴀɴɢᴜᴀɢᴇꜱ ➜ {languages}\n📖 Gᴇɴʀᴇꜱ ➜ {genres}\n\n𝗦𝗶𝗹𝘃𝗮 𝗙𝗶𝗹𝗺 𝗭𝗼𝗻𝗲™ | @SilvaFilmZone 🇱🇰</b>",        
+            "value": "<b>🏷 Tɪᴛʟᴇ : <a href={url}>{title}</a> | <a href={url}/releaseinfo>{year}</a></b>/n/n<b>📕 Rᴇʟᴇᴀꜱᴇ ➜ {release_date}</b>/n<b>🔉 Lᴀɴɢᴜᴀɢᴇ ➜ {languages}</b>/n<b>🌍 Cᴏᴜɴᴛʀɪᴇꜱ ➜ {countries}</b>/n<b>⏰ RᴜɴTɪᴍᴇ➜ {runtime} Minutes</b>/n<b>⭐️ Rᴀᴛɪɴɢ ➜ <a href={url}/ratings>{rating}</a> /10</b>/n<b>🎥 Dɪʀᴇᴄᴛᴏʀ ➜ {director}</b>/n<b>🌼 Gᴇɴʀᴇꜱ ➜ {genres}</b>/n/n<b>📖 Sᴛᴏʀʏ ➜ {plot}</b>/n/n<blockquote><b>@SilvaMovieZone™ | @SilvaFilmZone™ 🇱🇰</b></blockquote>",        
             "required": false
         }, 
         "IMDB_DELET_TIME": {
