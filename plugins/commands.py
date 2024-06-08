@@ -19,7 +19,7 @@ async def start(client, message):
         buttons = [[           
             InlineKeyboardButton('📕 Uᴩᴅᴀᴛᴇꜱ', url=f'https://t.me/{SUPPORT_CHAT}')
             ],[
-            InlineKeyboardButton('ℹ📚 Hᴇʟᴩ', url=f"https://t.me/{temp.U_NAME}?start=help")
+            InlineKeyboardButton('📚 Hᴇʟᴩ', url=f"https://t.me/{temp.U_NAME}?start=help")
         ]]
         await message.reply(START_MESSAGE.format(user=message.from_user.mention if message.from_user else message.chat.title, bot=client.mention), reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)                    
         await asyncio.sleep(2) 
@@ -39,7 +39,7 @@ async def start(client, message):
             InlineKeyboardButton("📖 Cʜᴀɴɴᴇʟ", url="https://t.me/SilvaFilmZone")
             ],[      
             InlineKeyboardButton("📚 Hᴇʟᴩ", callback_data="help"),
-            InlineKeyboardButton("🌸Aʙᴏᴜᴛ", callback_data="about")
+            InlineKeyboardButton("🌸 Aʙᴏᴜᴛ", callback_data="about")
         ]]
         m = await message.reply_sticker("CAACAgUAAxkBAAEBvlVk7YKnYxIHVnKW2PUwoibIR2ygGAACBAADwSQxMYnlHW4Ls8gQHgQ") 
         await asyncio.sleep(2)
