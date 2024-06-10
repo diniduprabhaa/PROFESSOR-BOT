@@ -4,10 +4,10 @@ class script(object):
 I'ᴍ {bot}.
 
 🌼 Yᴏᴜ Cᴀɴ Gᴇᴛ Aɴʏ Fɪʟᴍ Uꜱɪɴɢ Mᴇ. Sᴇɴᴅ Yᴏᴜ Wᴀɴᴛ Fɪʟᴍ Nᴀᴍᴇ Lɪᴋᴇ Tʜɪꜱ.
-<blockquote>Spiderman 2021</blockquote>
+<blockquote>The bad guys 2022</blockquote>
 
 Pᴏᴡᴇʀᴇᴅ Bʏ,
-<blockquote>@SilvaMovieZone™ @SilvaFilmZone 🇱🇰
+<blockquote>@SilvaMovieZone™ @SilvaFilmZone™ 🇱🇰
 Pʀɪᴍᴇ සිල්වා Pʀᴇᴍɪᴜᴍ Cʀᴇᴀᴛɪᴏɴ</blockquote></b>"""
     
     HELP_TXT = "Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ"
@@ -237,7 +237,8 @@ Wᴇʟᴄᴏᴍᴇ ᴛᴏ {chat}.
 
 <b>📖 Sᴛᴏʀʏ ➜ {plot}</b>
 
-<blockquote><b>@SilvaMovieZone™ | @SilvaFilmZone™ 🇱🇰</b></blockquote>"""
+<blockquote><b>@SilvaMovieZone™ 
+@SilvaFilmZone™ 🇱🇰</b></blockquote>"""
    
   
  
