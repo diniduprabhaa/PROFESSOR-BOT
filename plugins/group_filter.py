@@ -100,7 +100,7 @@ async def next_page(bot, query):
             btn = [[InlineKeyboardButton(text=f"{file.file_name}", callback_data=f'files#{nxreq}#{file.file_id}'),
                     InlineKeyboardButton(text=f"{get_size(file.file_size)}", callback_data=f'files#{nxreq}#{file.file_id}')] for file in files ]
 
-    btn.insert(0, [InlineKeyboardButton("🌼 Jᴏɪɴ Fɪʟᴍ Cʜᴀɴɴᴇʟ 🌼", "https://t.me/SilvaFilmZone")])
+    btn.insert(0, [InlineKeyboardButton("🌼 Jᴏɪɴ Fɪʟᴍ Cʜᴀɴɴᴇʟ 🌼", url="https://t.me/SilvaFilmZone")])
     if 0 < offset <= 10:
         off_set = 0
     elif offset == 0:
@@ -115,13 +115,13 @@ async def next_page(bot, query):
     elif off_set is None:
         btn.append(
             [InlineKeyboardButton(f"⭕ {math.ceil(int(offset) / 10) + 1} / {math.ceil(total / 10)}", callback_data="pages"),
-             InlineKeyboardButton("ɴᴇxᴛ ⭕", callback_data=f"next_{req}_{key}_{n_offset}")])
+             InlineKeyboardButton("📖 ɴᴇxᴛ", callback_data=f"next_{req}_{key}_{n_offset}")])
     else:
         btn.append(
             [
                 InlineKeyboardButton("⭕ ʙᴀᴄᴋ", callback_data=f"next_{req}_{key}_{off_set}"),
                 InlineKeyboardButton(f"⭕ {math.ceil(int(offset) / 10) + 1} / {math.ceil(total / 10)}", callback_data="pages"),
-                InlineKeyboardButton("ɴᴇxᴛ ⭕", callback_data=f"next_{req}_{key}_{n_offset}")
+                InlineKeyboardButton("📖 ɴᴇxᴛ", callback_data=f"next_{req}_{key}_{n_offset}")
             ],
         )
     
@@ -216,14 +216,14 @@ async def auto_filter(client, msg, spoll=False):
             btn = [[InlineKeyboardButton(text=f"{file.file_name}", callback_data=f'{pre}#{req}#{file.file_id}'),
                     InlineKeyboardButton(text=f"{get_size(file.file_size)}", callback_data=f'{pre}#{req}#{file.file_id}')] for file in files ] 
 
-    btn.insert(0, [InlineKeyboardButton("🌼 Jᴏɪɴ Fɪʟᴍ Cʜᴀɴɴᴇʟ 🌼", "https://t.me/SilvaFilmZone")])
+    btn.insert(0, [InlineKeyboardButton("🌼 Jᴏɪɴ Fɪʟᴍ Cʜᴀɴɴᴇʟ 🌼", url="https://t.me/SilvaFilmZone")])
     if offset != "":
         key = f"{message.chat.id}-{message.id}"
         temp.GP_BUTTONS[key] = search
         req = message.from_user.id if message.from_user else 0
         btn.append(
             [InlineKeyboardButton(text=f"⭕ ᴩᴀɢᴇꜱ 1/{math.ceil(int(total_results) / 6)}", callback_data="pages"),
-             InlineKeyboardButton(text="⭕ ɴᴇxᴛ", callback_data=f"next_{req}_{key}_{offset}")]
+             InlineKeyboardButton(text="📖 ɴᴇxᴛ", callback_data=f"next_{req}_{key}_{offset}")]
         )
     else:
         btn.append(
