@@ -14,15 +14,20 @@ Pʀɪᴍᴇ සිල්වා Pʀᴇᴍɪᴜᴍ Cʀᴇᴀᴛɪᴏɴ</blockquote
 
     ABOUT_TXT = """<b>✦ Mʏ ɴᴀᴍᴇ: {}
 ✦ Oᴡɴᴇʀ: <a herf=https://t.me/DiniduSilva>Mʀ.Pʀɪᴍᴇ සිල්වා</a>
+⭕ Jᴏɪɴ Nᴏᴡ ⭕
 ✦ Fɪʟᴍ Group: @SilvaMovieZone
 ✦ Fɪʟᴍ Cʜᴀɴɴᴇʟ: @SilvaFilmZone
 
-<blockquote>Mʀ.Pʀɪᴍᴇ සිල්වා Pʀᴇᴍɪᴜᴍ Cʀᴇᴀᴛɪᴏɴ</blockquote></b>"""
+<blockquote>Mʀ.Pʀɪᴍᴇ සිල්වා Pʀᴇᴍɪᴜᴍ Cʀᴇᴀᴛɪᴏɴ
+@SilvaMovieZone™ | @SilvaFilmZone™ 🇱🇰</blockquote></b>"""
    
     SOURCE_TXT = """<b>NOTE:</b>
-- <b>ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ɴᴏᴛ ᴘᴜʙʟɪᴄ ➜ <a href=https://t.me/DiniduSilva>ꜱᴏʀʀʏ ᴅᴇᴀʀ ᴛʜɪꜱ ɪꜱ ᴘʀɪᴠᴀᴛᴇ ʙᴏᴛ. ʏᴏᴜ ᴄᴀɴ ᴄᴏɴᴛᴀᴄᴛ ᴀᴅᴍɪɴ ᴀɴᴅ ɢᴇᴛ ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ.</a></b>
+<b>ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ɴᴏᴛ ᴘᴜʙʟɪᴄ ➜ <a href=https://t.me/DiniduSilva>ꜱᴏʀʀʏ ᴅᴇᴀʀ ᴛʜɪꜱ ɪꜱ ᴘʀɪᴠᴀᴛᴇ ʙᴏᴛ. ʏᴏᴜ ᴄᴀɴ ᴄᴏɴᴛᴀᴄᴛ ᴀᴅᴍɪɴ ᴀɴᴅ ɢᴇᴛ ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ.</a></b>
 
-<b>ᴅᴇᴠ: <a herf=https://t.me/DiniduSilva>Mʀ.Pʀɪᴍᴇ සිල්වා</a></b>"""
+⭕ Cᴏɴᴛᴀᴄᴛ Oᴡɴᴇʀ Oɴ Tᴇʟᴇɢʀᴀᴍ : <a herf=https://t.me/DiniduSilva>Mʀ.Pʀɪᴍᴇ සිල්වා</a>
+
+<b><blockquote>Mʀ.Pʀɪᴍᴇ සිල්වා Pʀᴇᴍɪᴜᴍ Cʀᴇᴀᴛɪᴏɴ
+@SilvaMovieZone™ | @SilvaFilmZone™ 🇱🇰</blockquote></b>"""
 
     FILE_TXT = """<b>➤ Hᴇʟᴘ Fᴏʀ Fɪʟᴇ Sᴛᴏʀᴇ</b>
 
