@@ -458,6 +458,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('Gʀᴏᴜᴩ Mᴀɴᴀɢᴇʀ', 'gpmanager'), 
             InlineKeyboardButton('Bᴏᴛ Sᴛᴀᴛᴜꜱ ❄️', 'stats')
             ],[
+            InlineKeyboardButton("☘️ Fɪʟᴍ Cʜᴀɴɴᴇʟ", url=f"http://t.me/SilvaFilmZone")
+            ],[
+            InlineKeyboardButton("🍁 Fɪʟᴍ Gʀᴏᴜᴘ", url=f"http://t.me/SilvaMovieZone")
+            ],[
             InlineKeyboardButton('✘ Cʟᴏꜱᴇ', 'close_data'),
             InlineKeyboardButton('« Bᴀᴄᴋ', 'start')           
         ]]
@@ -467,6 +471,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons= [[
             InlineKeyboardButton('⭕ Bᴏᴛ Oᴡɴᴇʀ', 'source')
             ],[
+            InlineKeyboardButton("☘️ Fɪʟᴍ Cʜᴀɴɴᴇʟ", url=f"http://t.me/SilvaFilmZone")
+            ],[
+            InlineKeyboardButton("🍁 Fɪʟᴍ Gʀᴏᴜᴘ", url=f"http://t.me/SilvaMovieZone")
+            ],[
             InlineKeyboardButton('✘ Cʟᴏꜱᴇ', 'close_data'),
             InlineKeyboardButton('« Bᴀᴄᴋ', 'start')          
         ]]
@@ -475,6 +483,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "source":
         buttons = [[
             InlineKeyboardButton('⭕ Bᴏᴛ Oᴡɴᴇʀ', url='https://t.me/DiniduSilva')
+            ],[
+            InlineKeyboardButton("☘️ Fɪʟᴍ Cʜᴀɴɴᴇʟ", url=f"http://t.me/SilvaFilmZone")
+            ],[
+            InlineKeyboardButton("🍁 Fɪʟᴍ Gʀᴏᴜᴘ", url=f"http://t.me/SilvaMovieZone")
             ],[
             InlineKeyboardButton('‹ Bᴀᴄᴋ', 'about')
         ]]
