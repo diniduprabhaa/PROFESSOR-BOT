@@ -24,7 +24,8 @@ Pᴏᴡᴇʀᴇᴅ Bʏ,
 @SilvaMovieZone™ 
 @SilvaFilmZone™ 🇱🇰</blockquote></b>"""
    
-    SOURCE_TXT = """<b>NOTE:</b>
+    SOURCE_TXT = """<b>Aʙᴏᴜᴛ Oꜰ Bᴏᴛ Oᴡɴᴇʀ</b>
+
 🔗 Tᴇʟᴇɢʀᴀᴍ Nᴀᴍᴇ: <a herf=https://t.me/DiniduSilva>Mʀ.Pʀɪᴍᴇ සිල්වා</a>
 🔗 Tᴇʟᴇɢʀᴀᴍ Uꜱᴇʀ Nᴀᴍᴇ: @DiniduSilva</b>
 
