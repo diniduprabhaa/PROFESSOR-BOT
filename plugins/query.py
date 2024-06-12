@@ -436,6 +436,12 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[      
             InlineKeyboardButton("📚 Hᴇʟᴩ", callback_data="help"),
             InlineKeyboardButton("🌸 Aʙᴏᴜᴛ", callback_data="about")
+            ],[
+            InlineKeyboardButton("⭕ Bᴏᴛ Oᴡɴᴇʀ", url=f"http://t.me/DiniduSilva")
+            ],[
+            InlineKeyboardButton("☘️ Fɪʟᴍ Cʜᴀɴɴᴇʟ", url=f"http://t.me/SilvaFilmZone")
+            ],[
+            InlineKeyboardButton("🍁 Fɪʟᴍ Gʀᴏᴜᴘ", url=f"http://t.me/SilvaMovieZone")
         ]]
         await query.edit_message_media(InputMediaPhoto(random.choice(PICS), START_MESSAGE.format(user=query.from_user.mention, bot=client.mention), enums.ParseMode.HTML), reply_markup=InlineKeyboardMarkup(buttons))
        
@@ -459,7 +465,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         
     elif query.data == "about":
         buttons= [[
-            InlineKeyboardButton('⭕ Sᴏᴜʀᴄᴇ Cᴏᴅᴇ', 'source')
+            InlineKeyboardButton('⭕ Bᴏᴛ Oᴡɴᴇʀ', 'source')
             ],[
             InlineKeyboardButton('✘ Cʟᴏꜱᴇ', 'close_data'),
             InlineKeyboardButton('« Bᴀᴄᴋ', 'start')          
@@ -468,7 +474,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         
     elif query.data == "source":
         buttons = [[
-            InlineKeyboardButton('👨🏻‍💻 Bᴏᴛ Oᴡɴᴇʀ', url='https://t.me/DiniduSilva')
+            InlineKeyboardButton('⭕ Bᴏᴛ Oᴡɴᴇʀ', url='https://t.me/DiniduSilva')
             ],[
             InlineKeyboardButton('‹ Bᴀᴄᴋ', 'about')
         ]]
