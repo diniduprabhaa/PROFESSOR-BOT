@@ -20,6 +20,12 @@ async def start(client, message):
             InlineKeyboardButton('📕 Uᴩᴅᴀᴛᴇꜱ', url=f'https://t.me/{SUPPORT_CHAT}')
             ],[
             InlineKeyboardButton('📚 Hᴇʟᴩ', url=f"https://t.me/{temp.U_NAME}?start=help")
+            ],[
+            InlineKeyboardButton("⭕ Bᴏᴛ Oᴡɴᴇʀ", url=f"http://t.me/DiniduSilva")
+            ],[
+            InlineKeyboardButton("☘️ Fɪʟᴍ Cʜᴀɴɴᴇʟ", url=f"http://t.me/SilvaFilmZone")
+            ],[
+            InlineKeyboardButton("🍁 Fɪʟᴍ Gʀᴏᴜᴘ", url=f"http://t.me/SilvaMovieZone")
         ]]
         await message.reply(START_MESSAGE.format(user=message.from_user.mention if message.from_user else message.chat.title, bot=client.mention), reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)                    
         await asyncio.sleep(2) 
@@ -40,6 +46,12 @@ async def start(client, message):
             ],[      
             InlineKeyboardButton("📚 Hᴇʟᴩ", callback_data="help"),
             InlineKeyboardButton("🌸 Aʙᴏᴜᴛ", callback_data="about")
+            ],[
+            InlineKeyboardButton("⭕ Bᴏᴛ Oᴡɴᴇʀ", url=f"http://t.me/DiniduSilva")
+            ],[
+            InlineKeyboardButton("☘️ Fɪʟᴍ Cʜᴀɴɴᴇʟ", url=f"http://t.me/SilvaFilmZone")
+            ],[
+            InlineKeyboardButton("🍁 Fɪʟᴍ Gʀᴏᴜᴘ", url=f"http://t.me/SilvaMovieZone")
         ]]
         m = await message.reply_sticker("CAACAgUAAxkBAAEBvlVk7YKnYxIHVnKW2PUwoibIR2ygGAACBAADwSQxMYnlHW4Ls8gQHgQ") 
         await asyncio.sleep(2)
@@ -76,6 +88,12 @@ async def start(client, message):
             ],[      
             InlineKeyboardButton("📚 Hᴇʟᴩ", callback_data="help"),
             InlineKeyboardButton("🌸 Aʙᴏᴜᴛ", callback_data="about")
+            ],[
+            InlineKeyboardButton("⭕ Bᴏᴛ Oᴡɴᴇʀ", url=f"http://t.me/DiniduSilva")
+            ],[
+            InlineKeyboardButton("☘️ Fɪʟᴍ Cʜᴀɴɴᴇʟ", url=f"http://t.me/SilvaFilmZone")
+            ],[
+            InlineKeyboardButton("🍁 Fɪʟᴍ Gʀᴏᴜᴘ", url=f"http://t.me/SilvaMovieZone")
         ]]
         m = await message.reply_sticker("CAACAgUAAxkBAAEBvlVk7YKnYxIHVnKW2PUwoibIR2ygGAACBAADwSQxMYnlHW4Ls8gQHgQ")
         await asyncio.sleep(2)
