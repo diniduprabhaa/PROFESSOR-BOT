@@ -7,27 +7,30 @@ I'ᴍ {bot}.
 <blockquote>The bad guys 2022</blockquote>
 
 Pᴏᴡᴇʀᴇᴅ Bʏ,
-<blockquote>@SilvaMovieZone™ @SilvaFilmZone™ 🇱🇰
-Pʀɪᴍᴇ සිල්වා Pʀᴇᴍɪᴜᴍ Cʀᴇᴀᴛɪᴏɴ</blockquote></b>"""
+<blockquote>Pʀɪᴍᴇ සිල්වා Pʀᴇᴍɪᴜᴍ Cʀᴇᴀᴛɪᴏɴ
+@SilvaMovieZone™ 
+@SilvaFilmZone™ 🇱🇰</blockquote></b>"""
     
     HELP_TXT = "Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ"
 
     ABOUT_TXT = """<b>✦ Mʏ ɴᴀᴍᴇ: {}
 ✦ Oᴡɴᴇʀ: <a herf=https://t.me/DiniduSilva>Mʀ.Pʀɪᴍᴇ සිල්වා</a>
-⭕ Jᴏɪɴ Nᴏᴡ ⭕
-✦ Fɪʟᴍ Group: @SilvaMovieZone
-✦ Fɪʟᴍ Cʜᴀɴɴᴇʟ: @SilvaFilmZone
+
+⭕ Jᴏɪɴ Nᴏᴡ
+🔗 Fɪʟᴍ Group: @SilvaMovieZone
+🔗 Fɪʟᴍ Cʜᴀɴɴᴇʟ: @SilvaFilmZone
 
 <blockquote>Mʀ.Pʀɪᴍᴇ සිල්වා Pʀᴇᴍɪᴜᴍ Cʀᴇᴀᴛɪᴏɴ
-@SilvaMovieZone™ | @SilvaFilmZone™ 🇱🇰</blockquote></b>"""
+@SilvaMovieZone™ 
+@SilvaFilmZone™ 🇱🇰</blockquote></b>"""
    
     SOURCE_TXT = """<b>NOTE:</b>
-<b>ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ɴᴏᴛ ᴘᴜʙʟɪᴄ ➜ <a href=https://t.me/DiniduSilva>ꜱᴏʀʀʏ ᴅᴇᴀʀ ᴛʜɪꜱ ɪꜱ ᴘʀɪᴠᴀᴛᴇ ʙᴏᴛ. ʏᴏᴜ ᴄᴀɴ ᴄᴏɴᴛᴀᴄᴛ ᴀᴅᴍɪɴ ᴀɴᴅ ɢᴇᴛ ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ.</a></b>
-
-⭕ Cᴏɴᴛᴀᴄᴛ Oᴡɴᴇʀ Oɴ Tᴇʟᴇɢʀᴀᴍ : <a herf=https://t.me/DiniduSilva>Mʀ.Pʀɪᴍᴇ සිල්වා</a>
+🔗 Tᴇʟᴇɢʀᴀᴍ Nᴀᴍᴇ: <a herf=https://t.me/DiniduSilva>Mʀ.Pʀɪᴍᴇ සිල්වා</a>
+🔗 Tᴇʟᴇɢʀᴀᴍ Uꜱᴇʀ Nᴀᴍᴇ: @DiniduSilva</b>
 
 <b><blockquote>Mʀ.Pʀɪᴍᴇ සිල්වා Pʀᴇᴍɪᴜᴍ Cʀᴇᴀᴛɪᴏɴ
-@SilvaMovieZone™ | @SilvaFilmZone™ 🇱🇰</blockquote></b>"""
+@SilvaMovieZone™ 
+@SilvaFilmZone™ 🇱🇰</blockquote></b>"""
 
     FILE_TXT = """<b>➤ Hᴇʟᴘ Fᴏʀ Fɪʟᴇ Sᴛᴏʀᴇ</b>
 
@@ -242,8 +245,10 @@ Wᴇʟᴄᴏᴍᴇ ᴛᴏ {chat}.
 
 <b>📖 Sᴛᴏʀʏ ➜ {plot}</b>
 
-<blockquote><b>@SilvaMovieZone™ 
-@SilvaFilmZone™ 🇱🇰</b></blockquote>"""
+<blockquote>Mʀ.Pʀɪᴍᴇ සිල්වා Pʀᴇᴍɪᴜᴍ Cʀᴇᴀᴛɪᴏɴ
+
+@SilvaMovieZone™ 
+@SilvaFilmZone™ 🇱🇰</blockquote>"""
    
   
  
