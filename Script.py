@@ -16,7 +16,7 @@ Pᴏᴡᴇʀᴇᴅ Bʏ,
     ABOUT_TXT = """<b>✦ Mʏ ɴᴀᴍᴇ: {}
 ✦ Oᴡɴᴇʀ: <a herf=https://t.me/DiniduSilva>Mʀ.Pʀɪᴍᴇ සිල්වා</a>
 
-⭕ Jᴏɪɴ Nᴏᴡ
+🌼 Jᴏɪɴ Nᴏᴡ
 🔗 Fɪʟᴍ Group: @SilvaMovieZone
 🔗 Fɪʟᴍ Cʜᴀɴɴᴇʟ: @SilvaFilmZone
 
@@ -24,7 +24,7 @@ Pᴏᴡᴇʀᴇᴅ Bʏ,
 @SilvaMovieZone™ 
 @SilvaFilmZone™ 🇱🇰</blockquote></b>"""
    
-    SOURCE_TXT = """<b>Aʙᴏᴜᴛ Oꜰ Bᴏᴛ Oᴡɴᴇʀ</b>
+    SOURCE_TXT = """<b>Bᴏᴛ Oᴡɴᴇʀ</b>
 
 🔗 Tᴇʟᴇɢʀᴀᴍ Nᴀᴍᴇ: <a herf=https://t.me/DiniduSilva>Mʀ.Pʀɪᴍᴇ සිල්වා</a>
 🔗 Tᴇʟᴇɢʀᴀᴍ Uꜱᴇʀ Nᴀᴍᴇ: @DiniduSilva</b>
@@ -251,10 +251,10 @@ Wᴇʟᴄᴏᴍᴇ ᴛᴏ {chat}.
 
 <b>📖 Sᴛᴏʀʏ ➜ {plot}</b>
 
-<blockquote>Mʀ.Pʀɪᴍᴇ සිල්වා Pʀᴇᴍɪᴜᴍ Cʀᴇᴀᴛɪᴏɴ
+<blockquote><b>Mʀ.Pʀɪᴍᴇ සිල්වා Pʀᴇᴍɪᴜᴍ Cʀᴇᴀᴛɪᴏɴ
 
 @SilvaMovieZone™ 
-@SilvaFilmZone™ 🇱🇰</blockquote>"""
+@SilvaFilmZone™ 🇱🇰</b></blockquote>"""
    
   
  
