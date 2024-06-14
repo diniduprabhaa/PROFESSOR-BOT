@@ -11,11 +11,7 @@ Pᴏᴡᴇʀᴇᴅ Bʏ,
 @SilvaMovieZone™ 
 @SilvaFilmZone™ 🇱🇰</blockquote></b>"""
     
-    HELP_TXT = "<b>Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ
-    Pᴏᴡᴇʀᴇᴅ Bʏ,
-<blockquote>Pʀɪᴍᴇ සිල්වා Pʀᴇᴍɪᴜᴍ Cʀᴇᴀᴛɪᴏɴ
-@SilvaMovieZone™ 
-@SilvaFilmZone™ 🇱🇰</blockquote></b>"
+    HELP_TXT = "<b>Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ HᴇʟᴩPᴏᴡᴇʀᴇᴅ Bʏ | @SilvaFilmZone | @SilvaMovieZone</b>"
 
     ABOUT_TXT = """<b>✦ Mʏ ɴᴀᴍᴇ: {}
 ✦ Oᴡɴᴇʀ: <a herf=https://t.me/DiniduSilva>Mʀ.Pʀɪᴍᴇ සිල්වා</a>
