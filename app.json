@@ -66,7 +66,7 @@
         },
         "DATABASE_NAME": {
             "description": "Name of the database in mongoDB.",
-            "value": "Cluster0",
+            "value": "dinidusilva40",
             "required": false
         },
         "COLLECTION_NAME": {
@@ -76,7 +76,7 @@
         },
         "SUPPORT_CHAT": {
             "description": "Updated Channel Username Without @ Not Chanel ID",
-            "value": "https://t.me/SilvaMovieZone",
+            "value": "SilvaMovieZone",
             "required": false
         },
         "IMDB": {
